@@ -1,4 +1,4 @@
-# STADIUM_BATTLE_FX_DS - Unofficial Compatibility Fork
+STADIUM_BATTLE_FX_DS - DRAMATIC SHAPE AND BATTLE ART COMPATIBLE
 Unofficial fork of StadiumBattleFX supporting DRAMATIC_SHAPE and BATTLE_ART_VOXEL_FORK (absol89's DramaticShapeVoxelMod) via a small bridge mod. Not affiliated with the original project.
 Changes:
 

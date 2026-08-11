@@ -24,11 +24,11 @@ Install STADIUM_BATTLE_FX_DS (this fork, not the original).
 
 Getting Stadium Announcer Audio:
 
-Download the tool from the initial release.
-Use the tool to generate a ZIP file after selecting the original mod and your stadium ROM.
-Open the generated ZIP and extract the assets folder containing the announcer calls.
-Copy the extracted assets folder into the STADIUM_BATTLE_FX_DS directory.
+Use the StadiumBattleFX-Announcer-Builder and STADIUM_BATTLE_FX-1.1.2.zip from the official release on GitHub: https://github.com/anxiousintrovert/StadiumBattleFX/releases (version 1.1.2).  
 
+Run the StadiumBattleFX-Announcer-Builder tool to generate the voice pack ZIP file, selecting the original mod and your stadium ROM.  
+Once the ZIP is generated, open it and extract the assets folder containing the announcer calls.  
+Copy the extracted assets folder into the STADIUM_BATTLE_FX_DS directory.
 
 
 Notes:

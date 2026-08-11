@@ -18,7 +18,7 @@ Supports effects, camera, and stadium features through this forwarding.
 
 Installation:
 
-Install either DRAMATIC_SHAPE or BATTLE_ART_VOXEL_FORK.
+Use either DRAMATIC_SHAPE or BATTLE_ART_VOXEL_FORK.
 Install DRAMATIC_SHAPE_COMPANION.
 Install STADIUM_BATTLE_FX_DS (this fork, not the original).
 

@@ -26,10 +26,7 @@ Getting Stadium Announcer Audio:
 
 Use the original StadiumBattleFX to build the voice pack:
 Download from original release.
-Enable it temporarily.
-In-game: OPTIONS -> STADIUM ROM -> IMPORT, select your ROM.
-Extract the generated audio files into this fork’s assets folder.
-Then, disable the original.
+Download from original release and let the tool to generate the zip. Open the generated zip and extract the files. Copy to STADIUM_BATTLE_FX_DS the assets folder with the generated announcer calls
 
 
 

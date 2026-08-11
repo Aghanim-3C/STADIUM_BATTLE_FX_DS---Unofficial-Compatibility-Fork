@@ -40,6 +40,7 @@ Errors should be reported here with details:
 Exact error/traceback
 Voxel mod version
 Confirm you're using STADIUM_BATTLE_FX_DS + DRAMATIC_SHAPE_COMPANION
+
 Built/tested against:
 StadiumBattleFX 1.1.2-ds1
 DRAMATIC_SHAPE 1.8.2

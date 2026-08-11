@@ -50,7 +50,5 @@ BATTLE_ART_VOXEL_FORK 1.7.9
 
 
 Credits:
-
-Dramaless Shape for API foundation.
-StadiumBattleFX as the base mod.
-Original stadium battle concept by rootbeerronin.
+Dramaless Shape (github.com/artyrambles/DRAMALESS_SHAPE) and its authors/contributors, who designed and added the Stadium.hit / Stadium.faint public API this whole chain works around the absence of outside their project.
+StadiumBattleFX (github.com/anxiousintrovert/StadiumBattleFX) (rootbeerronin on Discord) -- the mod this fork patches three lookups in, nothing else.

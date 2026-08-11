@@ -14,7 +14,7 @@ No other logic changed; everything else remains identical to v1.1.2.
 How it works:
 
 DRAMATIC_SHAPE_COMPANION (required) forwards modules from either DRAMATIC_SHAPE or BATTLE_ART_VOXEL_FORK.
-Supports models, camera, and stadium features through this forwarding.
+Supports effects, camera, and stadium features through this forwarding.
 
 Installation:
 
@@ -35,14 +35,13 @@ Then, disable the original.
 
 Notes:
 
-The original StadiumBattleFX does not support DRAMATIC_SHAPE / Dramaless Shape — this fork adds that support.
+The original StadiumBattleFX does not support DRAMATIC_SHAPE / BATTLE_ART_VOXEL_FORK — this fork adds that support.
 Errors should be reported here with details:
 Exact error/traceback
-Voxel mod version
+Mod version
 Confirm you're using STADIUM_BATTLE_FX_DS + DRAMATIC_SHAPE_COMPANION
 
 Built/tested against:
-StadiumBattleFX 1.1.2-ds1
 DRAMATIC_SHAPE 1.8.2
 BATTLE_ART_VOXEL_FORK 1.7.9
 
